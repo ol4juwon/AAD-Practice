@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AAD Practice</string>
+    <string name="toast_label">Toast</string>
+    <string name="snack_bar_label">SnackBar</string>
+    <string name="core_android_label">Core Android</string>
+    <string name="toast_message">This is a toast message!</string>
+    <string name="custom_toast_label">Custom Toast</string>
+    <string name="black_android_contentDescription">Black Android</string>
+    <string name="custom_toast_message">This is a custom toast message!</string>
+    <string name="custom_snack_bar_message">This is a custom snack bar message!</string>
+    <string name="custom_snack_bar_label">Custom SnackBar</string>
+    <string name="undo_action">Undo</string>
+</resources>
